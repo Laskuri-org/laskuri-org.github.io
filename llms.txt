@@ -1,0 +1,20 @@
+# Laskuri.org (esittelysivu GitHubissa)
+
+> Laskuri.org tarjoaa ilmaiset laskurit ja yksikkömuuntimet talouteen, liikuntaan, terveyteen ja arjen mittoihin.
+
+Tämä on Laskuri.orgin GitHub-organisaation esittelysivu. Varsinaiset laskurit ovat osoitteessa https://laskuri.org/. Laskenta tapahtuu käyttäjän selaimessa, eikä syötteitä lähetetä palvelimelle.
+
+## Laskurit
+
+- [Lainalaskuri](https://laskuri.org/lainalaskuri/): lainan maksuerät, korot ja kokonaiskulut
+- [Korkoa korolle](https://laskuri.org/korkoa-korolle/): säästämisen tuotto, inflaatio ja tuoton vaihtelu
+- [Prosenttilaskurit](https://laskuri.org/prosenttilaskut/): prosenttiosuudet, muutokset ja usean luvun vertailu
+- [Kilometrikorvauslaskuri](https://laskuri.org/kilometrikorvaus-laskin/): ajokilometrien korvaukset
+- [BMI-laskuri](https://laskuri.org/painoindeksi-bmi/): painoindeksi ja vertailurajat
+- [Pituusmuunnin](https://laskuri.org/pituusmuunnin/): sentit, tuumat, jalat, metrit ja mailit
+- [Kaikki laskurit](https://laskuri.org/)
+
+## Yhteystiedot
+
+- Sähköposti: info@laskuri.org
+- GitHub: https://github.com/laskuri-org
